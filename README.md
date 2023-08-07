@@ -82,9 +82,6 @@ Amante de los videojuegos y de la buena musica.</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
