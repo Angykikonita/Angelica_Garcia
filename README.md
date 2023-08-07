@@ -71,14 +71,11 @@
 
 ###
 
-<p align="left"> Soy Angy, FrontEnd Developer en constante avance, modo mentalidad de crecimiento y autoaprendizaje activado.
-Amante de los videojuegos y de la buena musica.</p>
+<h1 align="left"> Soy Angy, FrontEnd Developer en constante avance, modo mentalidad de crecimiento y autoaprendizaje activado.
+Amante de los videojuegos y de la buena musica.</h1>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
