@@ -71,7 +71,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"> Soy Angy, FrontEnd Developer en constante avance, modo mentalidad de crecimiento y autoaprendizaje activado.
+Amante de los videojuegos y de la buena musica.</p>
 
 ###
 
